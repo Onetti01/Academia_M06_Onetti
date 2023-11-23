@@ -1,0 +1,3 @@
+dni,nombre,apellidos,email,edad,fotografia,password,cursos
+123456789,John,Doe,ejemplo1@gmail.com,25,img/213456767J.jpg,clave1,1-2
+987654321,Jane,Doe,ejemplo2@gmail.com,22,img/213456767J.jpg,clave2,1-2-3
